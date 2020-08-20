@@ -6,3 +6,9 @@
 
 לפתחית הודעה
 ISSUES->NEW ISSUE
+
+להורדת הגרסא
+לחצו בצד ימין
+RELEASES
+ותורידו את הגרסא העדכנית ביותר
+Project file(.JAR)
